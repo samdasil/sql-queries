@@ -41,6 +41,6 @@
 [x] FEVEREIRO
 [x] MARÇO
 [x] ABRIL
-[] MAIO
+[x] MAIO
 [] JUNHO
 [] JULHO
