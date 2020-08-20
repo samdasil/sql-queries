@@ -20,7 +20,7 @@
         [] SB9
 [x] 11 - Query 02 - Transferencia Filial SD2 X SD1
 [x] 12 - Query 03 - Devolucao de Venda e beneficiamento e fornecedor
-[x] 13 - Analisa Produto Quantidade.
+[] 13 - Analisa Produto Quantidade.
 [] 14 - Analise Produto Valor
 [] 15 - Analisa custo geral.
 
