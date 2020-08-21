@@ -1,25 +1,25 @@
 ## Etapas para atualização Estoque - Subvenção
 
-[x] 01 - Verificar parâmetro MV_ULMES
-[x] 02 - Query Aux01 - Atualizar D3_TM e D3_CUSTO1 na SD3
-[x] 03 - Query 00 - Trocar TES de entrada SD1
-[x] 04 - Refaz custo de entrada (protheus)
-[x] 05 - Query 01 - Produtos com movimentos
-[x] 06 - Query 02 - Transferencia Filial SD2 X SD1
-[x] 07 - Query 03 - Devolucao de Venda, beneficiamento e Fornecedor
-[x] 08 - Query 04 Recalculo custo medio.
-[x] 09 - Atualizar tabelas (planilha custo_tranf.xlsx)
-        [x] SD2, 
-        [x] SD3, 
-        [x] SB9 
-[x] 10 - Query 05 - Custo de produção.
+[X] 01 - Verificar parâmetro MV_ULMES
+[X] 02 - Query Aux01 - Atualizar D3_TM e D3_CUSTO1 na SD3
+[X] 03 - Query 00 - Trocar TES de entrada SD1
+[X] 04 - Refaz custo de entrada (protheus)
+[X] 05 - Query 01 - Produtos com movimentos
+[X] 06 - Query 02 - Transferencia Filial SD2 X SD1
+[X] 07 - Query 03 - Devolucao de Venda, beneficiamento e Fornecedor
+[X] 08 - Query 04 Recalculo custo medio.
+[X] 09 - Atualizar tabelas (planilha custo_tranf.xlsx)
+        [X] SD2, 
+        [X] SD3, 
+        [X] SB9 
+[X] 10 - Query 05 - Custo de produção.
     [] 10.1 - Query 04 Recalculo custo Produção
     [] 10.2 - Atualizar nas tabelas (planilha custo_tranf.xlsx)
         [] SD2, 
         [] SD3, 
         [] SB9
-[x] 11 - Query 02 - Transferencia Filial SD2 X SD1
-[x] 12 - Query 03 - Devolucao de Venda e beneficiamento e fornecedor
+[X] 11 - Query 02 - Transferencia Filial SD2 X SD1
+[X] 12 - Query 03 - Devolucao de Venda e beneficiamento e fornecedor
 [] 13 - Analisa Produto Quantidade.
 [] 14 - Analise Produto Valor
 [] 15 - Analisa custo geral.
