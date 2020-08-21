@@ -42,5 +42,5 @@
 [x] MARÇO
 [x] ABRIL
 [x] MAIO
-[] JUNHO
+[x] JUNHO
 [] JULHO
